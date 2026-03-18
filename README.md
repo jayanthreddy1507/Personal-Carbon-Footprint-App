@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/8d9bb064-52ef-438f-886c-902678b42515
 
 A comprehensive full-stack web application designed to help users maximize their environmental impact through tracking, education, and gamification. Built as part of the Infosys Internship program.
 
-🚀 Live Demo Deployed Project: [View Project](personal-carbon-footprint-app.vercel.app)
+🚀 Live Demo Deployed Project: [personal-carbon-footprint-app.vercel.app].
     Live Videoo:(Uploading WhatsApp Video 2026-02-10 at 12.18.52 PM.mp4…)
 
 
